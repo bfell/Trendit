@@ -1,1 +1,2 @@
 # Trendit
+https://trendit.cl/
